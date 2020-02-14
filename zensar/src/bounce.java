@@ -1,0 +1,4 @@
+
+interface bounce {
+void bounceable();
+}
